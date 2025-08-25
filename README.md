@@ -59,12 +59,6 @@ Clone this repository:
 git clone https://github.com/yourusername/ab-testing-cookie-cats.git
 cd ab-testing-cookie-cats
 
-
-Install required libraries:
-
-pip install pandas scipy matplotlib seaborn
-
-
 Run the analysis:
 
 python ab_test_analysis.py
