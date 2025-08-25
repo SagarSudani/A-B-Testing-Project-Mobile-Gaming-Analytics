@@ -59,10 +59,6 @@ Clone this repository:
 git clone https://github.com/yourusername/ab-testing-cookie-cats.git
 cd ab-testing-cookie-cats
 
-Run the analysis:
-
-python ab_test_analysis.py
-
 📈 Key Findings
 
 Game Rounds: No significant difference in average playtime between groups.
